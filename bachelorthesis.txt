@@ -4,4 +4,7 @@
 
 ## Motivation
 
+- Grund 1
+- Grund 2
+
 ## Vergleichende Arbeiten
